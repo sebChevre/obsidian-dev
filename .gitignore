@@ -1,1 +1,10 @@
 .obsidian/
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.swp
+*.log
+
+obsidian-git.json
+
